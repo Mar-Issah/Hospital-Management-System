@@ -33,6 +33,9 @@ Hospital :hospital: Management System is a simple console application that helps
 3. Open project in Code::Blocks
 4. Run and Build project
 
+##OR>
+5. Go to the folder location, search for the the main.exe file and run it in terminal and Voila!!!
+
 <br>
 
 <!-- USAGE EXAMPLES -->
