@@ -38,8 +38,6 @@ Hospital :hospital: Management System is a simple console application that helps
 
 <br>
 
-<!-- USAGE EXAMPLES -->
-
 ## Usage
 
 This programme basically allows you to view doctor information, make doctor's appointment, create and view staff list.
