@@ -34,7 +34,7 @@ Hospital :hospital: Management System is a simple console application that helps
 4. Run and Build project
 
 ### OR
-5. Go to the folder location, search for the the main.exe file and run it in terminal and Voila
+5. Go to the folder location, search for the the main.exe file and run it in terminal and Voila!
 
 <br>
 
