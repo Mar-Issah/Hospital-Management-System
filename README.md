@@ -25,13 +25,13 @@ Hospital :hospital: Management System is a simple console application that helps
 
 ### Installation
 
-1. Clone the repo on your local machine
+1. Clone the repo on your local machine.
    ```sh
    git clone https://github.com/Mar-Issah/Hospital-Management-System.git
    ```
-2. Dowload and install [Code: :Blocks](https://www.codeblocks.org/downloads/)
-3. Open project in Code::Blocks
-4. Run and Build project
+2. Dowload and install [Code: :Blocks](https://www.codeblocks.org/downloads/).
+3. Open project in Code::Blocks.
+4. Run and Build project.
 
 ### OR
 5. Go to the folder location, search for the the main.exe file and run it in terminal and Voila!
